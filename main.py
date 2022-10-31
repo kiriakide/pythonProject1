@@ -2,7 +2,6 @@ import pip
 import yfinance
 import yfinance as yf
 import streamlit as st
-pip install yfinance
 
 st.write("""
 ### Simple Stock Price App
